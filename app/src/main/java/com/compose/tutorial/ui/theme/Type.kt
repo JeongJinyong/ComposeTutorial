@@ -1,4 +1,4 @@
-package com.coroutines.composetutorial.ui.theme
+package com.compose.tutorial.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

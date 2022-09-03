@@ -1,4 +1,4 @@
-package com.coroutines.composetutorial
+package com.compose.tutorial
 
 import org.junit.Test
 
